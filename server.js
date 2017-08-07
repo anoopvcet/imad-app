@@ -5,7 +5,8 @@ var path = require('path');
 var app = express();
 app.use(morgan('combined'));
 
-var articleone={
+var articles={
+ 'article-one': {
     title:'article One |Anoop V',
     heading:"Article One",
     date:'Sep 15th',
@@ -22,7 +23,37 @@ var articleone={
                     this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.
                 </p>`
     
-};
+},
+ 'article-two':{title:'article two |Anoop V',
+    heading:"Article two",
+    date:'Sep 15th',
+    content:`<p>
+                    this is article two. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.
+                </p>
+                <p>
+                    
+                    this is article two. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.
+                </p>
+                
+                <p>
+                    
+                    this is article two. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.
+                </p>`},
+ 'article-three':{title:'article three |Anoop V',
+    heading:"Article three",
+    date:'Sep 15th',
+    content:`<p>
+                    this is article three. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.
+                </p>
+                <p>
+                    
+                    this is article three. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.
+                </p>
+                
+                <p>
+                    
+                    this is article three. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.
+                </p>`}};
 
 function createTemplate(data)
 {
@@ -76,17 +107,12 @@ app.get('/', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'index.html'));
 });
 
-app.get('/article-one',function(req,res){
-   res.send(createTemplate(articleone));
+app.get('/:articleName',function(req,res){
+    var articleName= req.params.articleName;
+   res.send(createTemplate(article[articleName]));
 });
 
-app.get('/article-two',function(req,res){
-     res.sendFile(path.join(__dirname,'ui',  'article-two.html'));
-});
 
-app.get('/article-three',function(req,res){
-     res.sendFile(path.join(__dirname,'ui',  'article-three.html'));
-});
 
 
 app.get('/ui/style.css', function (req, res) {
