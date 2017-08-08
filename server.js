@@ -36,7 +36,10 @@ Yousafzai attended a school that her father, Ziauddin Yousafzai, had founded. Af
 
 In early 2009, Yousafzai began blogging for the BBC about living under the Taliban's threats to deny her an education. In order to hide her identity, she used the name Gul Makai. However, she was revealed to be the BBC blogger in December of that year.With a growing public platform, Yousafzai continued to speak out about her right, and the right of all women, to an education. Her activism resulted in a nomination for the International Children's Peace Prize in 2011. That same year, she was awarded Pakistan's National Youth Peace Prize.</p>
 <p>
-hi
+
+<h1>Targeted by the Taliban</h1>
+
+
 </p>`
     
 },
