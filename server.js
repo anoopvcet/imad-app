@@ -106,7 +106,7 @@ Dr. Seuss
 
 <br>C.S. Lewis
 
-<li> Never wrestle with a pig. You will get more and more dirty while the pig will be enjoy it
+<li> Never wrestle with a pig. You will get more and more dirty while the pig will be enjoying it
 <br> Anoop V
 
 
