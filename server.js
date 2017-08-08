@@ -50,7 +50,9 @@ The shooting left Malala in critical condition, so she was flown to a military h
 
 Once she was in the United Kingdom, Yousafzai was taken out of a medically induced coma. Though she would require multiple surgeries including repair of a facial nerve to fix the paralyzed left side of her face she had suffered no major brain damage. In March 2013, she was able to begin attending school in Birmingham.
 
-The shooting resulted in a massive outpouring of support for Yousafzai, which continued during her recovery. She gave a speech at the United Nations on her 16th birthday, in 2013. She has also written an autobiography, I Am Malala: The Girl Who Stood Up for Education and Was Shot by the Taliban, which was released in October 2013. Unfortunately, the Taliban still considers Yousafzai a target.</p>`
+The shooting resulted in a massive outpouring of support for Yousafzai, which continued during her recovery. She gave a speech at the United Nations on her 16th birthday, in 2013. She has also written an autobiography, I Am Malala: The Girl Who Stood Up for Education and Was Shot by the Taliban, which was released in October 2013. Unfortunately, the Taliban still considers Yousafzai a target.
+<br>
+</p>`
     
 },
  'article-two':{title:'article two |Anoop V',
