@@ -79,7 +79,7 @@ In April 2017, United Nations SecretaryGeneral Antonio Guterres appointed Yousaf
 
 
  'article-two':{title:'article two |Anoop V',
-    heading:"Article two",
+    heading:"Some Great quotes",
     date:'Sep 15th',
     content:`<p>
                     <ol>
