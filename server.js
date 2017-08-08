@@ -133,6 +133,28 @@ Do you see that great tree there? said the Witch, pointing to a tree beside them
 
 What shall I do down there? asked the Soldier.
 
+Get money... answered the Witch. Listen... When you reach the bottom of the tree you will find yourself in a large hall, it is light there, for there are more than three hundred lamps burning. Then you will see three doors, which you can open, the keys are in the locks. If you go into the first room, you will see a great chest in the middle of the floor with a dog sitting upon it, he has eyes as large as saucers, but you neednt trouble about him. I will give you my blue check apron, which you must spread out on the floor, and then go back quickly and fetch the dog and set him upon it, open the chest and take as much money as you like. It is copper there. If you would rather have silver, you must go into the next room, where there is a dog with eyes as large as mill-wheels. But dont take any notice of him, just set him upon my apron, and help yourself to the money. If you prefer gold, you can get that too, if you go into the third room, and as much as you like to carry. But the dog that guards the chest there has eyes as large as the Round Tower at Copenhagen.. He is a savage dog, I can tell you, but you neednt be afraid of him either. Only, put him on my apron and he wont touch you, and you can take out of the chest as much gold as you like...
+
+Come, this is not bad... said the Soldier. But what am I to give you, old Witch, for surely you are not going to do this for nothing?
+
+Yes, I am.... replied the Witch. Not a single farthing will I take... For me you shall bring nothing but an old tinder box which my grandmother forgot last time she was down there.
+
+Well, tie the rope round my waist ...said the Soldier.
+
+Here it is, said the Witch, and here is my blue check apron.
+
+Then the Soldier climbed up the tree, let himself down through the hole, and found himself standing, as the Witch had said, underground in the large hall, where the three hundred lamps were burning.
+
+Well, he opened the first door. Ugh.. there sat the dog with eyes as big as saucers glaring at him.
+
+You are a fine fellow... said the Soldier, and put him on the Witchs apron, took as much copper as his pockets could hold.., then he shut the chest, put the dog on it again, and went into the second room. Sure enough there sat the dog with eyes as large as mill wheels.
+
+You had better not look at me so hard... said the Soldier. Your eyes will come out of their sockets...
+
+And then he set the dog on the apron. When he saw all the silver in the chest, he threw away the copper he had taken, and filled his pockets and knapsack with nothing but silver.
+
+Then he went into the third room. Horrors... the dog there had two eyes, each as large as the Round Tower at Copenhagen, spinning round in his head like wheels.
+
 
                 </p>
                 <p>
