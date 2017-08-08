@@ -205,6 +205,30 @@ That is certainly a fine story, said the Queen. But the next night one of the la
 
 The Soldier had an overpowering longing to see the Princess again, and so the dog came in the middle of the night and fetched her, running as fast as he could. But the lady in waiting slipped on soft rubber shoes and followed them. When she saw them disappear into a large house, she thought to herself. Now I know where it is and made a great cross on the door with a piece of chalk. Then she went home and lay down, and the dog came back also, with the Princess. But when he saw that a cross had been made on the door of the house where the Soldier lived, he took a piece of chalk also, and made crosses on all the doors in the town,  and that was very clever, for now the lady in waiting could not find the right house, as there were crosses on all the doors.
 
+Early next morning the King, Queen, ladies in waiting, and officers came out to see where the Princess had been.
+
+There it is said the King, when he saw the first door with a cross on it.
+
+No, there it is, my dear said the Queen, when she likewise saw a door with a cross.
+
+But here is one, and there is another. they all exclaimed,  wherever they looked there was a cross on the door. Then they realised that the sign would not help them at all.
+
+But the Queen was an extremely clever woman, who could do a great deal more than just drive in a coach. She took her great golden scissors, cut up a piece of silk, and made a pretty little bag of it. This she filled with the grains of porridge oats, and tied it round the Princess neck, this done, she cut a little hole in the bag, so that the grains would strew the whole road wherever the Princess went.
+
+In the night the dog came again, took the Princess on his back and ran away with her to the Soldier, who was very much in love with her, and would have liked to have been a Prince, so that he might have had her for his wife.
+
+The dog did not notice how the grains were strewn right from the castle to the Soldiers window, where he ran up the wall with the Princess.
+
+In the morning the King and the Queen saw plainly where their daughter had been, and they took the Soldier and put him into prison.
+
+There he sat. Oh, how dark and dull it was there And they told him, Tomorrow you are to be hanged. Hearing that did not exactly cheer him, and he had left his tinder-box in the inn.
+
+Next morning he could see through the iron grating in front of his little window how the people were hurrying out of the town to see him hanged. He heard the drums and saw the soldiers marching, all the people were running to and fro. Just below his window was a shoemakers apprentice, with leather apron and shoes, he was skipping along so merrily that one of his shoes flew off and fell against the wall, just where the Soldier was sitting peeping through the iron grating.
+
+Oh, shoemakers boy, you neednt be in such a hurry said the Soldier to him. Theres nothing going on till I arrive. But if you will run back to the house where I lived, and fetch me my tinder-box, I will give you four shillings. But you must put your best foot foremost.
+
+The shoemakers boy was very willing to earn four shillings, and fetched the tinderbox, gave it to the Soldier, and yes now you shall hear.
+
 
                 </p>
                 <p>
