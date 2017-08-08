@@ -12,8 +12,7 @@ var articles={
     date:'Sep 15th',
     content:`<p>
     
-    <br>
-    <h1>Women's Rights Activist, Children's Activist, Activist from 1997</h1>
+        <h1>Women's Rights Activist, Children's Activist, Activist since 1997</h1>
                     As a young girl, Malala Yousafzai defied the Taliban in Pakistan and demanded that girls be allowed to receive an education. She was shot in the head by a Taliban gunman in 2012, but survived and went on to receive the Nobel Peace Prize.
 
                 </p>
