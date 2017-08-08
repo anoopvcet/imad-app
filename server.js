@@ -57,6 +57,12 @@ Despite the Taliban's threats, Yousafzai remains a staunch advocate for the powe
 </p>`
     
 },
+
+
+
+
+
+
  'article-two':{title:'article two |Anoop V',
     heading:"Article two",
     date:'Sep 15th',
