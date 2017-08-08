@@ -100,6 +100,12 @@ Dr. Seuss
 
 <br>Theodore Roosevelt
 
+<li> The only person you should try to be better than is the person you were yesterday.
+
+<br>Anonymous
+
+
+
 
 
 
