@@ -2,6 +2,14 @@ console.log('Loaded!');
 console.log('how are you');
 
 var img=document.getElementById('madi');
+var marginLeft =0;
+function moveRight(){
+    marginLeft+=5;
+    img.style.marginLeft+= 'px';
+    
+}
 img.onclick= function(){
-    img.style.marginLeft='100px';
+    
+    var interval= setInterval(moveRight , 100);
+    
 };
