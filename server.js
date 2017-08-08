@@ -85,12 +85,27 @@ In April 2017, United Nations SecretaryGeneral Antonio Guterres appointed Yousaf
                     <ol>
                     <li> Be who you are and say what you feel, because those who mind dont matter and those who matter dont mind.
 
+<br>
 Dr. Seuss
 
-Suggested by Marija Golubovic via Facebook
+
+
+<li> This too, shall pass.
+
+<br>Anonymous
+
+
+
+<li> Keep your eyes on the stars and your feet on the ground.
+
+<br>Theodore Roosevelt
+
+
 
 
 </ol>
+
+
                 </p>
                 <p>
                     
