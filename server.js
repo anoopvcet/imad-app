@@ -104,6 +104,12 @@ Dr. Seuss
 
 <br>Anonymous
 
+<li> Never be bullied into silence. Never allow yourself to be made a victim. Accept no ones definition of your life, define yourself.
+
+<br>Harvey Fierstein
+
+
+
 
 
 
