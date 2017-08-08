@@ -93,11 +93,11 @@ submit.onclick = function()
     var list='';
     for(var i=0 ; i<names.length ; i++)
     {
-      list=1;  
+      list+='<li>'+ names[i] + '<li>';  
     }
     
     var ul= document.getElementById('namelist');
-    ul.innerHtml= list;
+    ul.innerHTML= list;
 };
 
 
