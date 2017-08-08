@@ -229,7 +229,21 @@ Oh, shoemakers boy, you neednt be in such a hurry said the Soldier to him. There
 
 The shoemakers boy was very willing to earn four shillings, and fetched the tinderbox, gave it to the Soldier, and yes now you shall hear.
 
+Outside the town a great scaffold had been erected, and all round were standing the soldiers, and hundreds of thousands of people. The King and Queen were sitting on a magnificent throne opposite the judges and the whole council.
 
+The Soldier was already standing on the top of the ladder, but when they wanted to put the rope round his neck, he said that the fulfilment of one innocent request was always granted to a poor criminal before he underwent his punishment. He would so much like to smoke a small pipe of tobacco, it would be his last pipe in this world.
+
+The King could not refuse him this, and so he took out his tinderbox, and rubbed it once, twice, three times. And lo, and behold I there stood all three dogs the one with eyes as large as saucers, the second with eyes as large as mill wheels, and the third with eyes each as large as the Round Tower of Copenhagen.
+
+Help me now, so that I may not be hanged. cried the Soldier. And thereupon the dogs fell upon the judges and the whole council, seized some by the legs, others by the nose, and threw them so high into the air that they fell and were smashed into pieces.
+
+I wont stand this said the King, but the largest dog seized him too, and the Queen as well, and threw them up after the others. This frightened the soldiers, and all the people cried Good Soldier, you shall be our King, and marry the beautiful Princess
+
+Then they put the Soldier into the Kings coach, and the three dogs danced in front, crying Hurrah And the boys whistled and the soldiers presented arms.
+
+The Princess came out of the copper castle, and became Queen and that pleased her very much.
+
+The wedding festivities lasted for eight days, and the dogs sat at table and made eyes at everyone.
                 </p>
                 <p>
                     
