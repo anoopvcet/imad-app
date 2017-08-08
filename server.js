@@ -108,7 +108,9 @@ Dr. Seuss
 
 <br>Harvey Fierstein
 
+<li> Faith is the art of holding on to things your reason has once accepted, in spite of your changing moods.
 
+<br>C.S. Lewis
 
 
 
