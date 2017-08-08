@@ -155,6 +155,36 @@ And then he set the dog on the apron. When he saw all the silver in the chest, h
 
 Then he went into the third room. Horrors... the dog there had two eyes, each as large as the Round Tower at Copenhagen, spinning round in his head like wheels.
 
+Good evening said the Soldier and saluted, for he had never seen a dog like this before. But when he had examined him more closely, he thought to himself Now then, Ive had enough of this... and put him down on the floor, and opened the chest. Heavens... what a heap of gold there was... With all that he could buy up the whole town, and all the sugar pigs, all the tin soldiers, whips and rocking horses in the whole world. Now he threw away all the silver with which he had filled his pockets and knapsack, and filled them with gold insteadyes, all his pockets, his knapsack, cap and boots even, so that he could hardly walk. Now he was rich indeed. He put the dog back upon the chest, shut the door, and then called up through the tree..
+
+Now pull me up again, old Witch..
+
+Have you got the tinder box also... asked the Witch.
+
+Botheration.. said the Soldier, I had clean forgotten it... And then he went back and fetched it.
+
+The Witch pulled him up, and there he stood again on the high road, with pockets, knapsack, cap and boots filled with gold.
+
+What do you want to do with the tinder box? asked the Soldier.
+
+That doesnt matter to you, replied the Witch. You have got your money, give me my tinder-box.
+
+We ll see said the Soldier. Tell me at once what you want to do with it, or I will draw my sword, and cut off your head.
+
+No... screamed the Witch.
+
+The Soldier immediately cut off her head. That was the end of her! But he tied up all his gold in her apron, slung it like a bundle over his shoulder, put the tinderbox in his pocket, and set out towards the town.
+
+It was a splendid town. He turned into the finest inn, ordered the best chamber and his favourite dinner, for now that he had so much money he was really rich.
+
+It certainly occurred to the servant who had to clean his boots that they were astonishingly old boots for such a rich lord. But that was because he had not yet bought new ones, next day he appeared in respectable boots and fine clothes. Now, instead of a common soldier he had become a noble lord, and the people told him about all the grand doings of the town and the King, and what a beautiful Princess his daughter was.
+
+How can one get to see her? asked the Soldier.
+
+She is never to be seen at all. they told him, she lives in a great copper castle, surrounded by many walls and towers. No one except the King may go in or out, for it is prophesied that she will marry a common soldier, and the King cannot submit to that.
+
+I should very much like to see her, thought the Soldier, but he could not get permission.
+
 
                 </p>
                 <p>
