@@ -59,6 +59,10 @@ In October 2014, Yousafzai received the Nobel Peace Prize, along with Indian chi
 For her 18th birthday on July 12, 2015, also called Malala Day, the young activist continued to take action on global education by opening a school for Syrian refugee girls in Lebanon. Its expenses covered by the Malala Fund, the school was designed to admit nearly 200 girls from the ages of 14 to 18. Today on my first day as an adult, on behalf of the world's children, I demand of leaders we must invest in books instead of bullets, Yousafzai proclaimed in one of the schools classrooms.
 <br>
 That day, she also asked her supporters on The Malala Fund website Post a photo of yourself holding up your favorite book and share why YOU choose BooksNotBullets  and tell world leaders to fund the real weapon for change, education The teenage activist wrote The shocking truth is that world leaders have the money to fully fund primary AND secondary education around the world  but they are choosing to spend it on other things, like their military budgets. In fact, if the whole world stopped spending money on the military for just 8 days, we could have the 39 billion still needed to provide 12 years of free, quality education to every child on the planet.
+<br>
+In October 2015, a documentary about Yousafzais life was released. HE NAMED ME MALALA, directed by Davis Guggenheim An Inconvenient Truth, Waiting for Superman, gives viewers an intimate look into the life of Malala, her family, and her commitment to supporting education for girls around the world. 
+
+In April 2017, United Nations SecretaryGeneral Antonio Guterres appointed Yousafzai as a U.N. Messenger of Peace to promote girls education. The appointment is the highest honor given by the United Nations for an initial period of two years. Yousafzai was also given honorary Canadian citizenship in April. She is the sixth person and the youngest in the countrys history to receive the honor. 
 
 </p>`
     
