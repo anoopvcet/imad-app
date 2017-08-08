@@ -121,7 +121,19 @@ Dr. Seuss
     heading:"Article three",
     date:'Sep 15th',
     content:`<p>
-                    this is article three. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.
+                    A soldier came marching along the high road left, right... A left, right.. He had his knapsack on his back and a sword by his side, for he had been to the wars and was now returning home.
+
+An old Witch met him on the road. She was very ugly to look at... her bottom lip hung down to her breast.
+
+Good evening, Soldier.. she said. What a fine sword and knapsack you have... You are the very picture of a fine soldier... You ought to have as much money as you can carry..
+
+Thank you, old Witch, said the Soldier.
+
+Do you see that great tree there? said the Witch, pointing to a tree beside them. It is hollow within. You must climb up to the top, and then you will see a hole through which you can let yourself down into the tree. I will tie a rope round your waist, so that I may be able to pull you up again when you call.
+
+What shall I do down there? asked the Soldier.
+
+
                 </p>
                 <p>
                     
