@@ -21,5 +21,5 @@ button.onclick=function(){
     
     counter+=1;
     var span=document.getElementById('count');
-    span.innerHtml=counter.toString();
+    span.innerHTML=counter.toString();
 };
