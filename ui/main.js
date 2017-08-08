@@ -11,15 +11,32 @@ function moveRight(){
 }
 img.onclick= function(){
     
+    
+    
     var interval= setInterval(moveRight , 50);
     
 };
-var counter=0;
+
+
+
 var button = document.getElementById('counter');
 button.onclick=function(){
+    var request= new XMLHttpRequest();
     
-    
-    counter+=1;
-    var span=document.getElementById('count');
+    request.onreadystatechange = function(){
+     if (request.steadystate===  XMLHttpRequest.DONE)
+     {
+         if (request.status===200){
+             var counter=request.responseText;
+             var span=document.getElementById('count');
     span.innerHTML=counter.toString();
+         }
+         
+     } 
+        
+    };
+    
+    request.open('GET', "http://anoopvcet.imad.hasura-app.io/counter",true);
+    request.send(null);
+    
 };
