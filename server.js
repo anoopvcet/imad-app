@@ -9,7 +9,7 @@ var articles={
  'article-one': {
     title:'article One |Anoop V',
     heading:"<h1> Malala Yousafzai </h1>",
-    date:'Sep 15th',
+    date:'12 July 1997 (age 20), Mingora, Pakistan',
     content:`<p>
     
         <h1>Women's Rights Activist, Children's Activist, Activist since 1997</h1>
