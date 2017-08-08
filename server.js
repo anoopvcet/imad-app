@@ -245,15 +245,7 @@ The Princess came out of the copper castle, and became Queen and that pleased he
 
 The wedding festivities lasted for eight days, and the dogs sat at table and made eyes at everyone.
                 </p>
-                <p>
-                    
-                    this is article three. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.
-                </p>
-                
-                <p>
-                    
-                    this is article three. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.
-                </p>`}};
+                `}};
 
 function createTemplate(data)
 {
