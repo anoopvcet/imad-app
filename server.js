@@ -118,8 +118,8 @@ Dr. Seuss
                 </p>
                `},
  'article-three':{title:'article three |Anoop V',
-    heading:"Article three",
-    date:'Sep 15th',
+    heading:"The Tinder Box",
+    date:'Aug 8th',
     content:`<p>
                     A soldier came marching along the high road left, right... A left, right.. He had his knapsack on his back and a sword by his side, for he had been to the wars and was now returning home.
 
