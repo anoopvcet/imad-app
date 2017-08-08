@@ -56,6 +56,7 @@ Despite the Taliban's threats, Yousafzai remains a staunch advocate for the powe
 <br> 
 In October 2014, Yousafzai received the Nobel Peace Prize, along with Indian childrens rights activist Kailash Satyarthi. At age 17, she became the youngest person to receive the Nobel Peace Prize. In congratulating Yousafzai, Pakistani Prime Minister Nawaz Sharif said She is the pride of Pakistan, she has made her countrymen proud. Her achievement is unparalleled and unequaled. Girls and boys of the world should take lead from her struggle and commitment. U.N. Secretary General Ban Ki moon described her as a brave and gentle advocate of peace who through the simple act of going to school became a global teacher.
 <br>
+For her 18th birthday on July 12, 2015, also called Malala Day, the young activist continued to take action on global education by opening a school for Syrian refugee girls in Lebanon. Its expenses covered by the Malala Fund, the school was designed to admit nearly 200 girls from the ages of 14 to 18. Today on my first day as an adult, on behalf of the world's children, I demand of leaders we must invest in books instead of bullets, Yousafzai proclaimed in one of the schools classrooms.
 
 </p>`
     
