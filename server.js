@@ -12,6 +12,8 @@ var articles={
     date:'Sep 15th',
     content:`<p>
     <h1> Malala Yousafzai </h1>
+    <br>
+    <h1> masala</h1>
                     As a young girl, Malala Yousafzai defied the Taliban in Pakistan and demanded that girls be allowed to receive an education. She was shot in the head by a Taliban gunman in 2012, but survived and went on to receive the Nobel Peace Prize.
 
                 </p>
