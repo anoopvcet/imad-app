@@ -46,7 +46,7 @@ The shooting left Malala in critical condition, so she was flown to a military h
 
 </p>
 <p>
-<h1>>After the Attack</h1
+<h1>After the Attack</h1
 
 Once she was in the United Kingdom, Yousafzai was taken out of a medically induced coma. Though she would require multiple surgeries including repair of a facial nerve to fix the paralyzed left side of her face she had suffered no major brain damage. In March 2013, she was able to begin attending school in Birmingham.
 
