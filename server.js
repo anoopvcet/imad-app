@@ -72,12 +72,6 @@ In April 2017, United Nations SecretaryGeneral Antonio Guterres appointed Yousaf
 </p>`
     
 },
-
-
-
-
-
-
  'article-two':{title:'article two |Anoop V',
     heading:"Some Great quotes",
     date:'Sep 15th',
@@ -121,15 +115,7 @@ Dr. Seuss
 
 
                 </p>
-                <p>
-                    
-                    this is article two. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.
-                </p>
-                
-                <p>
-                    
-                    this is article two. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.this is article one. pay attention.
-                </p>`},
+               `},
  'article-three':{title:'article three |Anoop V',
     heading:"Article three",
     date:'Sep 15th',
