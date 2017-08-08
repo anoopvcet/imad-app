@@ -38,7 +38,9 @@ In early 2009, Yousafzai began blogging for the BBC about living under the Talib
 <p>
 
 <h1>Targeted by the Taliban</h1>
+Malala and her family learned that the Taliban had issued a death threat against her because of her activism. Though Malala was frightened for the safety of her father an antiTaliban activist. she and her family initially felt that the fundamentalist group would not actually harm a child.
 
+On October 9, 2012, when 15year old Malala was riding a bus with friends on their way home from school, a masked gunman boarded the bus and demanded to know which girl was Malala. When her friends looked toward Malala, her location was given away. The gunman fired at her, hitting Malala in the left side of her head, the bullet then traveled down her neck. Two other girls were also injured in the attack.
 
 </p>`
     
