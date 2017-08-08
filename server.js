@@ -185,6 +185,26 @@ She is never to be seen at all. they told him, she lives in a great copper castl
 
 I should very much like to see her, thought the Soldier, but he could not get permission.
 
+Now he lived very gaily, went to the theatre, drove in the Kings garden, and gave the poor a great deal of money, which was very nice of him he had experienced in former times how hard it is not to have a farthing in the world. Now he was rich, wore fine clothes, and made many friends, who all said that he was an excellent man, a real nobleman. And the Soldier liked that. But as he was always spending money, and never made any more, at last the day came when he had nothing left but two shillings, and he had to leave the beautiful rooms in which he had been living, and go into a little attic under the roof, and clean his own boots, and mend them with a darningneedle. None of his friends came to visit him there, for there were too many stairs to climb.
+
+It was a dark evening, and he could not even buy a light. But all at once it flashed across him that there was a little end of tinder in the tinderbox, which he had taken from the hollow tree into which the Witch had helped him down. He found the box with the tinder in it but just as he was kindling a light, and had struck a spark out of the tinderbox, the door burst open, and the dog with eyes as large as saucers, which he had seen down in the tree, stood before him and said.
+
+What does my lord command?
+
+Whats the meaning of this? exclaimed the Soldier. This is a pretty kind of tinderbox, if I can get whatever I want like this. Get me money.. he cried to the dog, and hey, presto... he was off and back again, holding a great purse full of money in his mouth.
+
+Now the Soldier knew what a wonderful tinder box this was. If he rubbed once, the dog that sat on the chest of copper appeared. if he rubbed twice, there came the dog that watched over the silver chest, and if he rubbed three times, the one that guarded the gold appeared. Now, the Soldier went down again to his beautiful rooms, and appeared once more in splendid clothes. All his friends immediately recognised him again, and paid him great court.
+
+One day he thought to himself It is very strange that no one can get to see the Princess. They all say she is very pretty, but whats the use of that if she has to sit for ever in the great copper castle with all the towers? Can I not manage to see her somehow? Where is my tinder box and so he struck a spark, and, presto. there came the dog with eyes as large as saucers.
+
+It is the middle of the night, I know, said the Soldier, but I should very much like to see the Princess for a moment.
+
+The dog was already outside the door, and before the Soldier could look round, in he came with the Princess. She was lying asleep on the dogs back, and was so beautiful that anyone could see she was a real Princess. The Soldier really could not refrain from kissing her he was such a thorough Soldier. Then the dog ran back with the Princess. But when it was morning, and the King and Queen were drinking tea, the Princess said that the night before she had had such a strange dream about a dog and a Soldier. she had ridden on the dogs back, and the Soldier had kissed her.
+
+That is certainly a fine story, said the Queen. But the next night one of the ladies in waiting was to watch at the Princess bed, to see if it was only a dream, or if it had actually happened.
+
+The Soldier had an overpowering longing to see the Princess again, and so the dog came in the middle of the night and fetched her, running as fast as he could. But the lady in waiting slipped on soft rubber shoes and followed them. When she saw them disappear into a large house, she thought to herself. Now I know where it is and made a great cross on the door with a piece of chalk. Then she went home and lay down, and the dog came back also, with the Princess. But when he saw that a cross had been made on the door of the house where the Soldier lived, he took a piece of chalk also, and made crosses on all the doors in the town,  and that was very clever, for now the lady in waiting could not find the right house, as there were crosses on all the doors.
+
 
                 </p>
                 <p>
