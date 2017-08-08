@@ -53,7 +53,7 @@ Once she was in the United Kingdom, Yousafzai was taken out of a medically induc
 The shooting resulted in a massive outpouring of support for Yousafzai, which continued during her recovery. She gave a speech at the United Nations on her 16th birthday, in 2013. She has also written an autobiography, I Am Malala: The Girl Who Stood Up for Education and Was Shot by the Taliban, which was released in October 2013. Unfortunately, the Taliban still considers Yousafzai a target.
 <br>
 Despite the Taliban's threats, Yousafzai remains a staunch advocate for the power of education. On October 10, 2013, in acknowledgement of her work, the European Parliament awarded Yousafzai the Sakharov Prize for Freedom of Thought. That same year, she was nominated for a Nobel Peace Prize.  She didn't win the prize, but was named a nominee again in March 2014. In August of the same year, Leanin.Org held a live chat on Facebook with Sheryl Sandberg and Yousafzai about the importance of education for girls around the world.  She talked about her story, her inspiration and family, her plans for the future and advocacy, and she answered a variety of inquiries from the social networks.
-<br>.  
+<br> 
 </p>`
     
 },
