@@ -1,11 +1,19 @@
 // for moving image on click
 
 var img=document.getElementById('madi');
+var img1=document.getElementById('madi1');
+var img2=document.getElementById('madi2');
+var img3=document.getElementById('madi3');
+var img4=document.getElementById('madi4');
 
 var marginLeft =0;
 function moveRight(){
     marginLeft+=1;
     img.style.marginLeft = marginLeft + 'px';
+    img1.style.marginLeft = marginLeft + 'px';
+    img2.style.marginLeft = marginLeft + 'px';
+    img3.style.marginLeft = marginLeft + 'px';
+    img4.style.marginLeft = marginLeft + 'px';
     
 }
 img.onclick= function(){
