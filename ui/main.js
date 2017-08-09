@@ -5,6 +5,7 @@ var img1=document.getElementById('madi1');
 var img2=document.getElementById('madi2');
 var img3=document.getElementById('madi3');
 var img4=document.getElementById('madi4');
+var img5=document.getElementById('madi5');
 
 var marginLeft =0;
 function moveRight(){
@@ -14,6 +15,7 @@ function moveRight(){
     img2.style.marginLeft = marginLeft + 'px';
     img3.style.marginLeft = marginLeft + 'px';
     img4.style.marginLeft = marginLeft + 'px';
+    img5.style.marginLeft = marginLeft + 'px';
     
 }
 img.onclick= function(){
