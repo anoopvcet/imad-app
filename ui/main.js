@@ -1,4 +1,4 @@
-
+// for moving image on click
 
 var img=document.getElementById('madi');
 
@@ -17,47 +17,7 @@ img.onclick= function(){
 };
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+//for incrementing counter on click of button
 var button = document.getElementById('counter');
 button.onclick=function(){
     var request= new XMLHttpRequest();
@@ -84,7 +44,7 @@ button.onclick=function(){
 
 
 
-
+// for addi g to list on clicking submit
    var submit =document.getElementById('submit_btn');
 submit.onclick = function()
 {
@@ -102,7 +62,7 @@ submit.onclick = function()
     var list='';
          for(var i=0 ; i<names.length ; i++)
     {
-      list+='<li>'+names[i]+'<li>';  
+      list+='<li>'+names[i]+'</li>';  
     }
     
     var ul= document.getElementById('namelist');
