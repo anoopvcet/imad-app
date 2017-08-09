@@ -344,17 +344,17 @@ app.get('/ui/papu.png', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'papu.png'));
 });
 
-app.get('/ui/papu1.png', function (req, res) {
-  res.sendFile(path.join(__dirname, 'ui', 'papu1.png'));
+app.get('/ui/papu1.jpg', function (req, res) {
+  res.sendFile(path.join(__dirname, 'ui', 'papu1.jpg'));
 });
-app.get('/ui/papu2.png', function (req, res) {
-  res.sendFile(path.join(__dirname, 'ui', 'papu2.png'));
+app.get('/ui/papu2.jpg', function (req, res) {
+  res.sendFile(path.join(__dirname, 'ui', 'papu2.jpg'));
 });
-app.get('/ui/papu3.png', function (req, res) {
-  res.sendFile(path.join(__dirname, 'ui', 'papu3.png'));
+app.get('/ui/papu3.jpg', function (req, res) {
+  res.sendFile(path.join(__dirname, 'ui', 'papu3.jpg'));
 });
-app.get('/ui/papu4.png', function (req, res) {
-  res.sendFile(path.join(__dirname, 'ui', 'papu4.png'));
+app.get('/ui/papu4.jpg', function (req, res) {
+  res.sendFile(path.join(__dirname, 'ui', 'papu4.jpg'));
 });
 
 // Do not change port, otherwise your app won't run on IMAD servers
