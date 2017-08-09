@@ -1,16 +1,12 @@
 // for moving image on click
 
 var img=document.getElementById('madi');
-var img1=document.getElementById('madi1');
-var img2=document.getElementById('madi2');
-var img3=document.getElementById('madi3');
-var img4=document.getElementById('madi4');
-var img5=document.getElementById('madi5');
+
 
 var marginLeft =0;
 function moveRight(imag){
     marginLeft+=1;
-    imag.style.marginLeft = marginLeft + 'px';
+    img.style.marginLeft = marginLeft + 'px';
     
     
 }
@@ -18,42 +14,7 @@ img.onclick= function(){
     
     
     
-    var interval= setInterval(moveRight(img) , 50);
-    
-};
-img1.onclick= function(){
-    
-    
-    
-    var interval= setInterval(moveRight(img1) , 50);
-    
-};
-img2.onclick= function(){
-    
-    
-    
-    var interval= setInterval(moveRight(img2) , 50);
-    
-};
-img3.onclick= function(){
-    
-    
-    
-    var interval= setInterval(moveRight(img3) , 50);
-    
-};
-img4.onclick= function(){
-    
-    
-    
-    var interval= setInterval(moveRight(img4) , 50);
-    
-};
-img5.onclick= function(){
-    
-    
-    
-    var interval= setInterval(moveRight(img5) , 50);
+    var interval= setInterval(moveRight , 50);
     
 };
 
