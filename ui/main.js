@@ -25,6 +25,41 @@ img.onclick= function(){
     var interval= setInterval(moveRight , 50);
     
 };
+img1.onclick= function(){
+    
+    
+    
+    var interval= setInterval(moveRight , 50);
+    
+};
+img2.onclick= function(){
+    
+    
+    
+    var interval= setInterval(moveRight , 50);
+    
+};
+img3.onclick= function(){
+    
+    
+    
+    var interval= setInterval(moveRight , 50);
+    
+};
+img4.onclick= function(){
+    
+    
+    
+    var interval= setInterval(moveRight , 50);
+    
+};
+img5.onclick= function(){
+    
+    
+    
+    var interval= setInterval(moveRight , 50);
+    
+};
 
 
 //for incrementing counter on click of button
