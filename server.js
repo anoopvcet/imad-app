@@ -393,7 +393,7 @@ app.post('/login',function(req,res){
               
               var hashedPassword =hash(password,salt);
               if(hashedPassword===dbString){
-               res.send('welcome'+username);
+               res.send('welcome');
            }
            else{
                res.send(403).send('username/password is invalid');
