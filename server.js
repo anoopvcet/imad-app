@@ -2,6 +2,12 @@ var express = require('express');
 var morgan = require('morgan');
 var path = require('path');
 var Pool =require('pg').Pool;
+//var crypto = require('crypto');
+
+
+
+
+
 var config={
     user: 'anoopvcet',
     database:'anoopvcet',
@@ -339,10 +345,33 @@ names.push(name);}
 res.send(JSON.stringify(names));
 } );
 
+//function hash(input, salt){
+  //  var hashed = crypto.pbkdf2Sync(input,salt,1000,512, 'sha512');
+    //return hashed.toString('hex');
+//}
+
+
+
+
+
+//app.get('/hash/:input', function(req,res){
+  //  var hashedString= hash(req.params.input, 'this-is-some-random-value');
+    //res.send(hashedString);
+//}
+//);
+
+
+
+
+
+
+
+
+
 
 app.get('/article/:articleName',function(req,res){
     var articleName= req.params.articleName;
-    Pool.query("select * from article WHERE title=$1" ,[req.params.articleName], function(err,result){
+    Pool.query("select * from article WHERE title='" +req.params.articleName+ "'", function(err,result){
        if(err){
            res.status(500).send(err.toString());
        }
