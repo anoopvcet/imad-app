@@ -342,7 +342,7 @@ res.send(JSON.stringify(names));
 
 app.get('/article/:articleName',function(req,res){
     var articleName= req.params.articleName;
-    Pool.query("select * from article WHERE title='" +req.params.articleName+ "'", function(err,result){
+    Pool.query("select * from article WHERE title=$1" ,[req.params.articleName], function(err,result){
        if(err){
            res.status(500).send(err.toString());
        }
