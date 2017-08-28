@@ -82,4 +82,52 @@ submit.onclick = function()
     
     request.open('GET', 'http://anoopvcet.imad.hasura-app.io/submit-name?name='+ name ,true);
     request.send(null);
-}
+};
+
+
+
+
+
+
+
+
+
+    
+    
+//submit username and password
+var submit1 =document.getElementById('submit_btn1');
+
+submit1.onclick = function()
+{
+    
+    var request= new XMLHttpRequest();
+    
+    request.onreadystatechange = function()
+    {
+     if (request.readyState===  XMLHttpRequest.DONE)
+     {
+         if (request.status===200)
+         {
+             alert("logged in sucessfully");
+         }else if (request.status===403)
+         {
+             alert("Username/password is incorrect");
+         }
+         else if(request.status===500)
+         {
+             alert("something went wrong with the server");
+         }
+         
+     } 
+        
+    };
+    var username= document.getElementById('username').value;
+    var password= document.getElementById('password').value;
+    request.open('POST', 'http://anoopvcet.imad.hasura-app.io/login' ,true);
+    request.setRequestHeader('content-type','application/json');
+    request.send(JSON.stringify({username:username, password:password}));
+    
+};
+
+
+
