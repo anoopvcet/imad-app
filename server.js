@@ -279,15 +279,15 @@ var htmltemplate =
                
             </div>
             <div>
-                <a href="/article-one">article-one</a>
+                <a href="/article/article-one">article-one</a>
                
             </div>
             <div>
-                <a href="/article-two">article-two</a>
+                <a href="/article/article-two">article-two</a>
                
             </div>
             <div>
-                <a href="/article-three">article-three</a>
+                <a href="/article/article-three">article-three</a>
                
             </div>
             <hr/>
