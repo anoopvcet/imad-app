@@ -85,9 +85,10 @@ submit.onclick = function()
     
     
     
-    //submit username and password
-    //var submit =document.getElementById('submit_btn1');
-//submit.onclick = function()
+//submit username and password
+var submit =document.getElementById('submit_btn');
+
+submit.onclick = function()
 {
     
     var request= new XMLHttpRequest();
