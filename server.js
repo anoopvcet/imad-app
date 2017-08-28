@@ -2,7 +2,7 @@ var express = require('express');
 var morgan = require('morgan');
 var path = require('path');
 var Pool =require('pg').Pool;
-//var crypto = require('crypto');
+var crypto = require('crypto');
 
 
 
@@ -345,10 +345,10 @@ names.push(name);}
 res.send(JSON.stringify(names));
 } );
 
-//function hash(input, salt){
-  //  var hashed = crypto.pbkdf2Sync(input,salt,1000,512, 'sha512');
-    //return hashed.toString('hex');
-//}
+function hash(input, salt){
+  var hashed = crypto.pbkdf2Sync(input,salt,1000,512, 'sha512');
+return hashed.toString('hex');
+}
 
 
 
