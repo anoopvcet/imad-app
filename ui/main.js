@@ -1,49 +1,3 @@
-// for moving image on click
-
-var img=document.getElementById('madi');
-
-
-var marginLeft =0;
-function moveRight(imag){
-    marginLeft+=1;
-    img.style.marginLeft = marginLeft + 'px';
-    
-    
-}
-img.onclick= function(){
-    
-    
-    
-    var interval= setInterval(moveRight , 50);
-    
-};
-
-
-//for incrementing counter on click of button
-var button = document.getElementById('counter');
-button.onclick=function(){
-    var request= new XMLHttpRequest();
-    
-    request.onreadystatechange = function()
-    {
-     if (request.readyState===  XMLHttpRequest.DONE)
-     {
-         if (request.status===200)
-         {
-             var counter=request.responseText;
-             var span=document.getElementById('count');
-             span.innerHTML=counter.toString();
-         }
-         
-     } 
-        
-    };
-    
-    request.open('GET', 'http://anoopvcet.imad.hasura-app.io/counter',true);
-    request.send(null);
-    
-};
-
 function loadLoginForm () {
     var loginHtml = `
         <h3>Login/Register to unlock awesome features</h3>
@@ -53,60 +7,11 @@ function loadLoginForm () {
         <input type="submit" id="login_btn" value="Login" />
         <input type="submit" id="register_btn" value="Register" />
         `;
-    document.getElementById('login_area').innerHTML = loginHtml;}
-
-// for addi g to list on clicking submit
-   var submit =document.getElementById('submit_btn');
-submit.onclick = function()
-{
+    document.getElementById('login_area').innerHTML = loginHtml;
     
-    var request= new XMLHttpRequest();
-    
-    request.onreadystatechange = function()
-    {
-     if (request.readyState===  XMLHttpRequest.DONE)
-     {
-         if (request.status===200)
-         { 
-              var names =request.responseText;
-             names=JSON.parse(names);
-    var list='';
-         for(var i=0 ; i<names.length ; i++)
-    {
-        
-      list+='<li>'+names[i]+'</li>';  
-        
-        
-    }
-    
-    var ul= document.getElementById('namelist');
-    ul.innerHTML= list;
-             }
-         
-     } 
-        
-    };
-    var nameInput= document.getElementById('name');
-    var name =nameInput.value;
-    
-    request.open('GET', 'http://anoopvcet.imad.hasura-app.io/submit-name?name='+ name ,true);
-    request.send(null);
-};
-
-
-
-
-
-
-
-
-
-    
-    
-//submit username and password
     // Submit username/password to login
-    var submit1 = document.getElementById('login_btn1');
-    submit1.onclick = function () {
+    var submit = document.getElementById('login_btn');
+    submit.onclick = function () {
         // Create a request object
         var request = new XMLHttpRequest();
         
@@ -141,7 +46,8 @@ submit.onclick = function()
         submit.value = 'Logging in...';
         
     };
- var register = document.getElementById('register_btn');
+    
+    var register = document.getElementById('register_btn');
     register.onclick = function () {
         // Create a request object
         var request = new XMLHttpRequest();
@@ -173,7 +79,13 @@ submit.onclick = function()
     };
 }
 
-
+function loadLoggedInUser (username) {
+    var loginArea = document.getElementById('login_area');
+    loginArea.innerHTML = `
+        <h3> Hi <i>${username}</i></h3>
+        <a href="/logout">Logout</a>
+    `;
+}
 
 function loadLogin () {
     // Check if the user is already logged in
@@ -191,16 +103,6 @@ function loadLogin () {
     request.open('GET', '/check-login', true);
     request.send(null);
 }
-
-function loadLoggedInUser (username) {
-    var loginArea = document.getElementById('login_area');
-    loginArea.innerHTML = `
-        <h3> Hi <i>${username}</i></h3>
-        <a href="/logout">Logout</a>
-    `;
-}
-
-
 
 function loadArticles () {
         // Check if the user is already logged in
