@@ -212,9 +212,9 @@ submit.onclick=function(){
     } 
     console.log(pnrst2[1]);
     var list3='';
-    
-        list3='<li>'+pnrst2[1]+'</li>';
-    
+    for(var i=0;i<pnrst2.length; i++){
+        list3='<li>'+pnrst2[i]+'</li>';
+    }
     var ul=document.getElementById('namelist2');
     ul.innerHTML=list3;
                   
