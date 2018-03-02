@@ -187,7 +187,7 @@ submit.onclick=function(){
         var trainnumb=nameInput1.value;
         var nameInput2=document.getElementById('daterequired');
         
-        console.log(nameInput2);
+        console.log(nameInput2.value);
         var datecurrent= nameInput2.value;
         request.open('GET','https://api.railwayapi.com/v2/live/train/'+trainnumb+'/date/'+datecurrent+'/apikey/y62g41yepl/',true);
         request.send(null);
