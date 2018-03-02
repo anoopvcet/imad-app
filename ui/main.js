@@ -185,8 +185,8 @@ submit.onclick=function(){
         };
         var nameInput1=document.getElementById('name1');
         var trainnumb=nameInput1.value;
-        var nameInput2=document.getElementById('daterequired');
-        var datecurrent= nameinput2.value
+        //var nameInput2=document.getElementById('daterequired');
+        //var datecurrent= nameinput2.value
         request.open('GET','https://api.railwayapi.com/v2/live/train/12076/date/02-03-2018/apikey/y62g41yepl/',true);
         request.send(null);
     
