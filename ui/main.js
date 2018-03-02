@@ -183,7 +183,7 @@ submit.onclick=function(){
           }
         };
         var nameInput=document.getElementById('name1');
-        var name=nameInput.value;
+        var name1=nameInput.value;
         
         request.open('GET','http://anoopvcet.imad.hasura-app.io/submit-name1/'+name1,true);
         request.send(null);
