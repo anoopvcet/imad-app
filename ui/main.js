@@ -208,6 +208,8 @@ submit.onclick=function(){
     var pnrst2=[];
     for(var i=0;i<pnrst1.length; i++){
         pnrst2.push(pnrst1[i].current_status)
+        console.log(pnrst2[0]);
+        console.log(pnrst2[1]);
     ;
     } 
     console.log(pnrst2[1]);
