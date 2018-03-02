@@ -208,8 +208,7 @@ submit.onclick=function(){
     for(var i=0;i<pnrst.passengers.length; i++){
     pnrst1.push(pnrst.passengers[i]);
     
-        console.log(pnrst1[0]);
-        console.log(pnrst1[1]);
+       
     ;
     } 
     var pnrst2=[];
@@ -221,6 +220,9 @@ submit.onclick=function(){
     for(var i=0;i<pnrst2.length; i++){
         list3='<li>'+pnrst2[i]+'</li>';
     }
+     console.log(pnrst2[0]);
+        console.log(pnrst2[1]);
+    
     var ul=document.getElementById('namelist2');
     ul.innerHTML=list3;
                   
