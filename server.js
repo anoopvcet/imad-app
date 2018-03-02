@@ -231,6 +231,15 @@ app.get('/ui/:fileName', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', req.params.fileName));
 });
 
+var names=[];
+app.get('/submit-name/:name',function(req,res){
+    var name=req.params.name;
+    
+    names.push(name);
+    
+    res.send(JSON.stringify(names));
+});
+
 
 var port = 80; // Use 8080 for local development because you might already have apache running on 80
 app.listen(port, function () {
