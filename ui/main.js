@@ -204,10 +204,16 @@ submit.onclick=function(){
               if (request.status === 200) {
     var pnrst= request.responseText;
     pnrst=JSON.parse(pnrst);
-    console.log(pnrst.passenger);
+    pnrst1=pnrst.passengers;
+    var pnrst2[];
+    for(var i=0;i<pnrst1.length; i++){
+        pnrst2.push(pnrst1[i].current_status)
+    ;
+    } 
+    console.log(pnrst2[1]);
     var list3='';
     
-        list3='<li>'+pnrst.passengers.current_status+'</li>';
+        list3='<li>'+pnrst2[1].+'</li>';
     
     var ul=document.getElementById('namelist2');
     ul.innerHTML=list3;
