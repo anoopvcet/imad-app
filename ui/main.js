@@ -215,7 +215,7 @@ submit.onclick=function(){
     
     var list3='';
     for(var i=0;i<pnrst1.length; i++){
-        list3='<li>'+pnrst1[i].current_status+'</li>';
+        list3='<li>'+pnrst1[0].current_status+'</li>';
     }
     var ul=document.getElementById('namelist2');
     ul.innerHTML=list3;
