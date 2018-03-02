@@ -212,7 +212,7 @@ submit.onclick=function(){
         console.log(pnrst1[1]);
     ;
     } 
-    console.log(pnrst1[0]);
+    
     var list3='';
     for(var i=0;i<pnrst1.length; i++){
         list3='<li>'+pnrst1[i]+'</li>';
