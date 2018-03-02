@@ -185,7 +185,7 @@ submit.onclick=function(){
         var nameInput=document.getElementById('name1');
         var name=nameInput.value;
         
-        request.open('GET','http://anoopvcet.imad.hasura-app.io/submit-name/'+name1,true);
+        request.open('GET','http://anoopvcet.imad.hasura-app.io/submit-name1/'+name1,true);
         request.send(null);
     
     
