@@ -205,7 +205,7 @@ submit.onclick=function(){
     var pnrst= request.responseText;
     pnrst=JSON.parse(pnrst);
     var pnrst1=[];
-    for(var i=0;i<pnrst[passengers].length; i++){
+    for(var i=0;i<pnrst.passengers.length; i++){
     pnrst1.push(pnrst.passengers[i]);
     
         console.log(pnrst1[0]);
