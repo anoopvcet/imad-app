@@ -171,6 +171,7 @@ submit.onclick=function(){
               if (request.status === 200) {
     var names1= request.responseText;
     names1=JSON.parse(names1);
+    console.log(names1.position);
     var list1='';
     
         list1='<li>'+names1.position+'</li>';
