@@ -218,7 +218,7 @@ submit.onclick=function(){
     
     var list3='';
     for(var i=0;i<pnrst2.length; i++){
-        list3='<li>'+pnrst2[i]+'</li>';
+        list3+='<li>'+"passenger no"+i+"       "+pnrst2[i]+'</li>';
     }
      console.log(pnrst2[0]);
         console.log(pnrst2[1]);
