@@ -160,6 +160,36 @@ submit.onclick=function(){
     
     
 };
+var submit=document.getElementById('submit_btn1');
+submit.onclick=function(){
+     var request = new XMLHttpRequest();
+        
+        // Capture the response and store it in a variable
+        request.onreadystatechange = function () {
+          if (request.readyState === XMLHttpRequest.DONE) {
+              // Take some action
+              if (request.status === 200) {
+    var names1= request.responseText;
+    names=JSON.parse(names1);
+    var list1='';
+    for(var i=0;i<names.length; i++){
+        list+='<li>'+names1[i]+'</li>';
+    }
+    var ul=document.getElementById('namelist1');
+    ul.innerHTML=list1;
+                  
+              }
+              
+          }
+        };
+        var nameInput=document.getElementById('name1');
+        var name=nameInput.value;
+        
+        request.open('GET','http://anoopvcet.imad.hasura-app.io/submit-name/'+name1,true);
+        request.send(null);
+    
+    
+};
 
 
 // The first thing to do is to check if the user is logged in!
