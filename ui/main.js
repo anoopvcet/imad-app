@@ -207,7 +207,7 @@ submit.onclick=function(){
     console.log(pnrst.passenger);
     var list3='';
     
-        list3='<li>'+pnrst.passenger+'</li>';
+        list3='<li>'+pnrst.passengers+'</li>';
     
     var ul=document.getElementById('namelist2');
     ul.innerHTML=list3;
