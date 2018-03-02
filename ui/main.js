@@ -212,10 +212,14 @@ submit.onclick=function(){
         console.log(pnrst1[1]);
     ;
     } 
+    var pnrst2=[];
+    for(var i=0;i<pnrst1.length; i++){
+    pnrst2.push(pnrst1[i].current_status)
+    };
     
     var list3='';
-    for(var i=0;i<=pnrst1.length; i++){
-        list3='<li>'+pnrst1[i].current_status+'</li>';
+    for(var i=0;i<pnrst2.length; i++){
+        list3='<li>'+pnrst2[i]+'</li>';
     }
     var ul=document.getElementById('namelist2');
     ul.innerHTML=list3;
