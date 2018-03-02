@@ -193,6 +193,39 @@ submit.onclick=function(){
     
 };
 
+var submit=document.getElementById('submit_btn2');
+submit.onclick=function(){
+     var request = new XMLHttpRequest();
+        
+        // Capture the response and store it in a variable
+        request.onreadystatechange = function () {
+          if (request.readyState === XMLHttpRequest.DONE) {
+              // Take some action
+              if (request.status === 200) {
+    var pnrst= request.responseText;
+    pnrst=JSON.parse(pnrst);
+    console.log(pnrst.passenger);
+    var list3='';
+    
+        list3='<li>'+pnrst.passenger+'</li>';
+    
+    var ul=document.getElementById('namelist2');
+    ul.innerHTML=list3;
+                  
+              }
+              
+          }
+        };
+        var pnrInput=document.getElementById('pnr');
+        var pnr=pnrInput.value;
+        
+        
+        request.open('GET','https://api.railwayapi.com/v2/pnr-status/pnr/'+pnr+'/apikey/y62g41yepl/',true);
+        request.send(null);
+    
+    
+};
+
 
 // The first thing to do is to check if the user is logged in!
 loadLogin();
