@@ -172,9 +172,9 @@ submit.onclick=function(){
     var names1= request.responseText;
     names1=JSON.parse(names1);
     var list1='';
-    for(var i=0;i<names1.length; i++){
-        list1+='<li>'+names1[i]+'</li>';
-    }
+    
+        list1='<li>'+names1.position+'</li>';
+    
     var ul=document.getElementById('namelist1');
     ul.innerHTML=list1;
                   
@@ -183,9 +183,10 @@ submit.onclick=function(){
           }
         };
         var nameInput1=document.getElementById('name1');
-        var name1=nameInput1.value;
-        
-        request.open('GET','http://anoopvcet.imad.hasura-app.io/submit-name1/'+name1,true);
+        var trainnumb=nameInput1.value;
+        var nameInput2=document.getElementById('daterequired');
+        var datecurrent= nameinput2.value
+        request.open('GET','https://api.railwayapi.com/v2/live/train/12076/date/02-03-2018/apikey/y62g41yepl/',true);
         request.send(null);
     
     
