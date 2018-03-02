@@ -243,7 +243,7 @@ var names1=[];
 app.get('/submit-name1/:name1',function(req,res){
     var name=req.params.name1;
     
-    names.push(name1);
+    names1.push(name1);
     
     res.send(JSON.stringify(names1));
 });
