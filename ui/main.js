@@ -213,7 +213,7 @@ submit.onclick=function(){
     console.log(pnrst2[1]);
     var list3='';
     
-        list3='<li>'+pnrst2[1].+'</li>';
+        list3='<li>'+pnrst2[1]+'</li>';
     
     var ul=document.getElementById('namelist2');
     ul.innerHTML=list3;
