@@ -204,18 +204,18 @@ submit.onclick=function(){
               if (request.status === 200) {
     var pnrst= request.responseText;
     pnrst=JSON.parse(pnrst);
-    pnrst1=pnrst.passengers;
-    var pnrst2=[];
-    for(var i=0;i<pnrst1.length; i++){
-        pnrst2.push(pnrst1[i].current_status)
-        console.log(pnrst2[0]);
-        console.log(pnrst2[1]);
+    var pnrst1=[];
+    for(var i=0;i<pnrst[passengers].length; i++){
+    pnrst1.push(pnrst.passengers[i]);
+    
+        console.log(pnrst1[0]);
+        console.log(pnrst1[1]);
     ;
     } 
-    console.log(pnrst2[1]);
+    console.log(pnrst1[0]);
     var list3='';
-    for(var i=0;i<pnrst2.length; i++){
-        list3='<li>'+pnrst2[i]+'</li>';
+    for(var i=0;i<pnrst1.length; i++){
+        list3='<li>'+pnrst1[i]+'</li>';
     }
     var ul=document.getElementById('namelist2');
     ul.innerHTML=list3;
