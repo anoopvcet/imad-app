@@ -170,10 +170,10 @@ submit.onclick=function(){
               // Take some action
               if (request.status === 200) {
     var names1= request.responseText;
-    names=JSON.parse(names1);
+    names1=JSON.parse(names1);
     var list1='';
     for(var i=0;i<names1.length; i++){
-        list+='<li>'+names1[i]+'</li>';
+        list1+='<li>'+names1[i]+'</li>';
     }
     var ul=document.getElementById('namelist1');
     ul.innerHTML=list1;
