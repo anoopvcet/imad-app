@@ -172,7 +172,7 @@ submit.onclick=function(){
     var names1= request.responseText;
     names=JSON.parse(names1);
     var list1='';
-    for(var i=0;i<names.length; i++){
+    for(var i=0;i<names1.length; i++){
         list+='<li>'+names1[i]+'</li>';
     }
     var ul=document.getElementById('namelist1');
@@ -182,8 +182,8 @@ submit.onclick=function(){
               
           }
         };
-        var nameInput=document.getElementById('name1');
-        var name1=nameInput.value;
+        var nameInput1=document.getElementById('name1');
+        var name1=nameInput1.value;
         
         request.open('GET','http://anoopvcet.imad.hasura-app.io/submit-name1/'+name1,true);
         request.send(null);
