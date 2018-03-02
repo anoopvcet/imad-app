@@ -239,6 +239,14 @@ app.get('/submit-name/:name',function(req,res){
     
     res.send(JSON.stringify(names));
 });
+var names1=[];
+app.get('/submit-name1/:name1',function(req,res){
+    var name=req.params.name1;
+    
+    names.push(name1);
+    
+    res.send(JSON.stringify(names1));
+});
 
 
 var port = 80; // Use 8080 for local development because you might already have apache running on 80
